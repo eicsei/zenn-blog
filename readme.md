@@ -1,2 +1,3 @@
-## blog test
-this is a test file.
+# Zenn CLI
+
+* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
